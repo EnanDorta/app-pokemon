@@ -35,8 +35,6 @@ export default function AppPrincipal(){
                 <div className='card'>
 
                 </div>
-            </div>
-            <div className='divCards'>
                 <div className='card'>
 
                 </div>
@@ -46,7 +44,7 @@ export default function AppPrincipal(){
                 <div className='card'>
 
                 </div> 
-                 <div className='card'>
+                <div className='card'>
 
                 </div> 
                 <div className='card'>
