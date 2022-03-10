@@ -12,7 +12,7 @@ export default function AppPrincipal(){
                     <button>Search</button>
                 </div>
                 <div className='divPages'>
-                    <button>-</button><span>1</span>-<span>15</span>
+                    <button>-</button><span>1 </span>-<span> 15</span>
                     <button>+</button>
                 </div>
             </div>
