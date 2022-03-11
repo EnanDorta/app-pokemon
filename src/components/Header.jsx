@@ -1,6 +1,7 @@
 import logoPokeApi from '../assets/img/logoPokeApi.png';
+import '../css/AppStyle.css'
 
-export default function Header(){
+export function Header() {
     return(
         <header>
            <img src={logoPokeApi} alt="PokéApi"/>

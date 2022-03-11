@@ -1,12 +1,11 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
-import AppPrincipal from './page/AppPrincipal';
+import App from '../src/App';
 
 const root = document.getElementById('root');
 
 ReactDOM.render(
   
-    <AppPrincipal/>
+    <App/>
     ,root
 );
 
